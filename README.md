@@ -245,5 +245,5 @@ it is a geo-intelligent discovery platform.
 
 **Dhanush**
 
-Final Year Engineering Student  
+Pre - Final Year Engineering Student  
 Passionate about building intelligent, user-focused web applications.
